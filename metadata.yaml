@@ -1,0 +1,39 @@
+_repo: Voyage-dans-le-nord-du-Bresil-fait-durant-les-annees-1613-et-1614_67080
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Denis, Ferdinand
+    gutenberg_agent_id: '54102'
+    url: http://www.gutenberg.org/2009/agents/54102
+creator:
+  author:
+    agent_name: Yves, d'Evreux
+    aliases:
+    - D'Evreux, Yves
+    - D'Evreux, Ivo
+    - Michellet, Simon
+    - D'Évreux, Yves
+    birthdate: 1570
+    gutenberg_agent_id: '52348'
+    url: http://www.gutenberg.org/2009/agents/52348
+    wikipedia: https://fr.wikipedia.org/wiki/Yves_d'%C3%89vreux
+description: ''
+gutenberg_issued: '2022-01-02'
+identifiers:
+  gutenberg: '67080'
+language: fr
+pgterms:marc904: https://archive.org/details/voyagedanslenord00yves
+pgterms:marc905: 20080516102156vreuxd
+pgterms:marc906: '1864'
+pgterms:marc907: FR
+production_note: Jean-Adrien Brothier, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: France :Librairie A. Franck,1864.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage dans le nord du Brésil fait durant les années 1613 et 1614
+url: http://www.gutenberg.org/ebooks/67080
